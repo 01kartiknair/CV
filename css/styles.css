@@ -1,0 +1,28 @@
+body {
+  background-color: #e4bad4;
+}
+
+hr {
+  border-style: none;
+  /*we make the border have nothing and have 0 height*/
+  border-top-style: dotted;
+  /*we make only the top part of border box dotted*/
+  border-color: #9b3675;
+  border-width: 5px;
+  /*size of the dots*/
+  width: 5%;
+  /*how much of the screen should the border take*/
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+h1 {
+  color: #9b3675;
+}
+
+h3 {
+  color: #9b3675;
+}
